@@ -1,0 +1,4 @@
+com\chatapp\controller\ChatController.class
+com\chatapp\ChatAppApplication.class
+com\chatapp\model\ChatMessage.class
+com\chatapp\config\WebSocketConfig.class
